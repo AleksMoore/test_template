@@ -10,13 +10,13 @@
 .fblock__style textarea{width:100%; padding:5px 15px; height:140px; border:1px solid #c3c3c3; border-radius:2px; margin-bottom:20px;}
 .inp__sub{width:130px!important; height:43px!important; background:#777777; font-size:18px; color:#fff; text-transform:uppercase; font-weight:700; cursor:pointer; padding:0!important;}
 .inp__sub:hover{opacity:0.8;}
-.fblock__style .ct__fblock{position:absolute; right:-27px; top:-27px; display:flex; justify-content:center; align-items:center; background:#777777; width:27px; height:27px; 
+.fblock__style .ct_fblock{position:absolute; right:-27px; top:-27px; display:flex; justify-content:center; align-items:center; background:#777777; width:27px; height:27px; 
 	-webkit-transition:0.3s ease-in-out;
 	-moz-transition:0.3s ease-in-out;
 	-o-transition:0.3s ease-in-out;
 	transition:0.3s ease-in-out;
 }
-.fblock__style .ct__fblock:hover{opacity:0.7;
+.fblock__style .ct_fblock:hover{opacity:0.7;
 	-moz-transform: rotate(-180deg);
 	-ms-transform: rotate(-180deg);
 	-webkit-transform: rotate(-180deg);
