@@ -47,8 +47,8 @@ select{-webkit-appearance: none; -moz-appearance: none; appearance: none;}
 
 .slider{display:flex; width:100%; justify-content:center; background:#f8f8f8; overflow:hidden;}
 .slider__container{width:1400px; position:relative;}
-.slider__content .owl-prev{position:absolute; top:155px; left:245px; text-indent:-9999px; background: url(./images/icons/arrow_prev.png) center top no-repeat !important; height: 61px; width: 34px;}
-.slider__content .owl-next{position:absolute; top:155px; right:245px; text-indent:-9999px; background: url(./images/icons/arrow_next.png) center top no-repeat !important; height: 61px; width: 34px;}
+.slider__content .owl-prev{position:absolute; top:155px; left:245px; text-indent:-9999px; background: url(../images/icons/arrow_prev.png) center top no-repeat !important; height: 61px; width: 34px;}
+.slider__content .owl-next{position:absolute; top:155px; right:245px; text-indent:-9999px; background: url(../images/icons/arrow_next.png) center top no-repeat !important; height: 61px; width: 34px;}
 
 /*Breadcrumbs*/
 
@@ -102,5 +102,5 @@ select{-webkit-appearance: none; -moz-appearance: none; appearance: none;}
 .footer__middle ul li{margin-bottom:15px;}
 .footer__middle ul li a{color:#fff;}
 .footer__right{color:#fff; position:relative;}
-.footer__right:before{content:' '; width:36px; height:38px; position:absolute; top:0; left:-45px; background:url(./images/icons/company.png) center top no-repeat;}
+.footer__right:before{content:' '; width:36px; height:38px; position:absolute; top:0; left:-45px; background:url(../images/icons/company.png) center top no-repeat;}
 .footer__right p a{color:#fff; margin-bottom:10px;}
